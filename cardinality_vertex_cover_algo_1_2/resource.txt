@@ -1,0 +1,4 @@
+https://www.youtube.com/watch?v=3DLrUNbKhjQ
+http://smallcultfollowing.com/babysteps/blog/2015/04/06/modeling-graphs-in-rust-using-vector-indices/
+https://github.com/nrc/r4cppp/blob/master/graphs/README.md
+https://github.com/Lakret/gir/blob/graphs/graphs/src/graph.rs#L47-L145
